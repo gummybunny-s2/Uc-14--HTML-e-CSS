@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Sniglet:wght@400;800&display=swap');
+
+h1 { font-family: "Sniglet", system-ui; color: aquamarine; text-align: center; font-size: 30px;}
+p {  font-family: "Sniglet", system-ui; text-align: end;}
